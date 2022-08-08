@@ -5,6 +5,9 @@ My Second Task is to build ATM Interface
 ####
 ![App Screenshot](http://www.projectcoordinator.net/sites/default/files/newsletter/task-management.png)
 
+## Video of Number Guessing Game
+
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGXntvZs6Czvw/mp4-720p-30fp-crf28/0/1659900341565?e=1660586400&v=beta&t=hVM4HSaF4Zr-c5x3wObFjyseo25zRBwWOmqWT6froeo)
 
 ## Screenshots of ATM Interface
 
