@@ -8,7 +8,7 @@ My Second Task is to build number guessing game
 
 ## Video of Number Guessing Game
 
-[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://youtu.be/erCyarNqyxM)
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)]([https://youtu.be/erCyarNqyxM](https://dms.licdn.com/playlist/C4D05AQFpG95n2gKnfw/mp4-720p-30fp-crf28/0/1659963622489?e=1660586400&v=beta&t=3yKgY7ZRkeh-L3oOVR6l0aOVcJ-mFG-gLUd3iDuflRU))
 #### Youtube Link-> [www.youtube.com](https://youtu.be/erCyarNqyxM)
 ###  
 
