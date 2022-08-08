@@ -8,7 +8,7 @@ My Second Task is to build number guessing game
 
 ## Video of Number Guessing Game
 
-[![Watch the video](https://static.vecteezy.com/system/resources/previews/003/206/623/original/youtube-editorial-app-icon-free-vector.jpg)](https://youtu.be/erCyarNqyxM)
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://youtu.be/erCyarNqyxM)
 #### Youtube Link-> [www.youtube.com](https://youtu.be/erCyarNqyxM)
 ###  
 
